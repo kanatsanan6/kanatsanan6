@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @kanatsanan6
-- 👀 I’m interested in Technologies
-- 🌱 I’m currently learning Front-end Web Development
+- 👋 Hi, My Name is Toon (Kanatsanan Janpakdee). I'm self-taught Front-End Web Developer from Thailand.
+- 👀 Currently I'm working on Expense App Project. Click to check the [(Repo)](https://github.com/kanatsanan6/expense-app)
 - 📫 How to reach me: kanatsanan.j1998@gmail.com
 
 <!---

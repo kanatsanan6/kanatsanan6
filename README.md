@@ -1,5 +1,5 @@
 - 👋 Hi, My Name is Toon (Kanatsanan Janpakdee). I'm self-taught Full-Stack Web Developer from Thailand.
-- 👀 I have just finished my first full stack project. Click [(here)](https://github.com/kanatsanan6/expense-app-mern) to check it out! 
+- 👀 I have just finished the expense management project using MERN stack. Click [(here)](https://github.com/kanatsanan6/expense-app-mern) to check it out! 
 - 📫 How to reach me: kanatsanan.j1998@gmail.com
 
 <!---

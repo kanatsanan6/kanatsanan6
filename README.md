@@ -1,4 +1,4 @@
-👋 Hi, My Name is Toon (Kanatsanan Janpakdee). I'm software engineer from Thailand.
+👋 Hi, My Name is Toon.
 
 ✨ How to reach me: kanatsanan.j1998@gmail.com
 
